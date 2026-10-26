@@ -1,0 +1,2 @@
+Dato un testo, proponi una riformulazione solo per lo span indicato in input. La riscrittura deve seguire questa strategia inclusiva:
+Riformula lo span in modo da non indicare il genere. (Esempio: "i professori" → "il corpo docente" o "coloro che insegnano";)

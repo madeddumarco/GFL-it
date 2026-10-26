@@ -1,0 +1,11 @@
+[Testo]: - Il 79% dei laureati lavora (a un anno dalla laurea).
+[Riscrittura]: - Il 79% delle persone laureate lavora (a un anno dalla laurea).
+
+[Testo]: A valle del Piano strategico saranno individuati i responsabili di ciascuna azione.
+[Riscrittura]: A valle del Piano strategico saranno individuate le figure responsabili di ciascuna azione.
+
+[Testo]: Con riferimento alla qualificazione dei docenti si riportano i risultati raggiunti per tutti i curricula.
+[Riscrittura]: Con riferimento alla qualificazione del corpo docente si riportano i risultati raggiunti per tutti i curricula.
+
+[Testo]: Gli studenti iscritti regolari nel NUM (indicatore iC00e) sono 141, in aumento rispetto agli anni precedenti (+ NUM %, nel NUM erano 139).
+[Riscrittura]: Coloro che sono in corso regolare nel NUM (indicatore iC00e) sono 141, in aumento rispetto agli anni precedenti (+ NUM %, nel NUM erano 139).

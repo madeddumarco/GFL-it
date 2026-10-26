@@ -1,0 +1,1 @@
+Identifica parole o espressioni riferite a persone umane che contengono dei marcatori di genere femminile o maschile. Se non riconosci nessuna espressione restituisci 0.

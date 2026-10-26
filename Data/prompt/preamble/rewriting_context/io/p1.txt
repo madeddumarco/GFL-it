@@ -1,0 +1,2 @@
+Dato un testo, proponi una riformulazione solo per lo span indicato in input. La riscrittura deve seguire questa strategia inclusiva:
+Utilizza indicatori innovativi e neutri dal punto di vista del genere. In questo caso, sostituisci tutti gli elementi del testo che marcano il genere (articoli, aggettivi, sostantivi) con il simbolo ə. (Esempio: i professori → lə professorə)

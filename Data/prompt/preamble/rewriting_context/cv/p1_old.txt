@@ -1,0 +1,2 @@
+Dato un testo, proponi una riformulazione solo per lo span indicato in input. La riscrittura deve seguire questa strategia inclusiva:
+Fornisci sia la forma maschile che quella femminile dell'espressione. (Esempio: i professori → i professori e le professoresse;)

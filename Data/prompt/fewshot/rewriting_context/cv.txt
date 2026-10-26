@@ -1,0 +1,15 @@
+[Testo]: Infine, nel terzo anno, i Dottorandi entrano nel writing period per finalizzare il proprio lavoro di Tesi
+[Span]: i Dottorandi
+[Riscrittura]: i/le dottorandi/dottorande 
+
+[Testo]: Il 79% dei laureati lavora (a un anno dalla laurea).
+[Span]: dei laureati
+[Riscrittura]: dei/delle laureati/laureate 
+
+[Testo]: Sezione a cura del responsabile amministrativo
+[Span]: del responsabile amministrativo
+[Riscrittura]: del/della responsabile amministrativo/amministrativa
+
+[Testo]: Circa un 10% degli studenti non risponde perchè non si fida dell'anonimato o perché ritiene che la propria opinione non conti
+[Span]: degli studenti
+[Riscrittura]: degli/delle studenti/studentesse

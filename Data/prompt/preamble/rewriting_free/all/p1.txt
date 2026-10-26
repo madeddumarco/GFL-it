@@ -1,0 +1,1 @@
+Dato un testo, per lo span indicato in input, proponi una riformulazione inclusiva dal punto di vista del genere solo per quello span. 

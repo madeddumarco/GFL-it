@@ -1,0 +1,11 @@
+[Testo]: A livello di Ateneo ha partecipato il 76% degli  iscritti del 1° anno CdL e l ’81% di tutti gli altri studenti.
+[Span]: degli iscritti ; di tutti gli altri studenti
+
+[Testo]: - La CPDS raccomanda al CCS di approfondire con i docenti che hanno ricevuto valutazioni insoddisfacenti nei quesiti le possibili ragioni, per individuare con ciascuno le azioni più opportune da mettere in campo.
+[Span]: i docenti; ciascuno
+
+[Testo]: Pur  apprezzando la modifica la componente studentesca ripresenta la richiesta di  estensione ai fuoricorso.
+[Span]: ai fuoricorso
+
+[Testo]: Ogni anno si articola  poi in due semestri, ciascuno per 12 settimane di attività didattica.
+[Span]: 0

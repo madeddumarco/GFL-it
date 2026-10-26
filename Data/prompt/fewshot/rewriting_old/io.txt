@@ -1,0 +1,11 @@
+[Testo]: Sezione a cura del responsabile amministrativo
+[Riscrittura]: Sezione a cura dellə responsabile amministrativə
+
+[Testo]: Segnaliamo l'istituzione delle DIMI Hours online rivolte a studenti delle superiori che stanno valutando l'iscrizione ad Ingegneria
+[Riscrittura]: Segnaliamo l'istituzione delle DIMI Hours online rivolte a studentə delle superiori che stanno valutando l'iscrizione ad Ingegneria
+
+[Testo]:- Per gli studenti del primo anno le valutazioni sono tutte al di sopra della soglia critica.
+[Riscrittura]:- Per lə studenti le valutazioni sono tutte al di sopra della soglia critica.
+
+[Testo]: 23 A.4 COINVOLGIMENTO E SOSTEGNO DEGLI STUDENTI ..........
+[Riscrittura]: 23 A.4 COINVOLGIMENTO E SOSTEGNO dellə studentə ..........

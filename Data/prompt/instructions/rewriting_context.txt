@@ -1,0 +1,7 @@
+Formato della risposta:
+- Restituisci esclusivamente lo span riscritto (non aggiungere articoli o altre parole fuori dallo span).
+- Non aggiungere spiegazioni.
+- Non aggiungere introduzioni.
+- Non usare markdown.
+- Non ripetere il testo originale.
+- La risposta deve contenere una sola riga.

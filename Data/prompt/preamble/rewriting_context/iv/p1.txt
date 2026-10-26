@@ -1,0 +1,2 @@
+Dato un testo, proponi una riformulazione solo per lo span indicato in input. La riscrittura deve seguire questa strategia inclusiva:
+Fornisci una tripla forma composta da femminile, maschile e forma neutra realizzata utilizzando un simbolo ə. (Esempio: "i professori" → "i/le/lə professori/professoresse/professorə.). Per ogni parola che si riferisce ad una persona scrivi prima la forma maschile, poi quella femminile, poi quella neutra separate da /.
